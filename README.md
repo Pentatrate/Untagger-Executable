@@ -7,7 +7,7 @@ Warning:
   May break if you have nested Tags.
 1. Save your level if you are in the editor (Make sure you can play it without errors).
 2. Create a copy of your level for the unlikely event where your level breaks afterwards.
-3. Put the untagger.exe into the folder of your specific level (**not** in the "tags" folder).
+3. Download and put the untagger.exe file into the folder of your specific level (**not** in the "tags" folder).
 4. Run it. The Command Prompt should open for a brief moment.
 5. Check the "tags" folder of your level. It should be empty.
 6. Reopen your level in the editor.
@@ -17,8 +17,8 @@ Warning:
 You need Node.js for this. The source code that was injected into a Node.js package for the executable.
 1. Save your level if you are in the editor (Make sure you can play it without errors).
 2. Create a copy of your level for the unlikely event where your level breaks afterwards.
-3. Put the untagger.js into the folder of your specific level (**not** in the "tags" folder).
-4. Open the command prompt and use Node.js to run it. Make sure it was successful.
+3. Download and put the untagger.js file into the folder of your specific level (**not** in the "tags" folder).
+4. Open the command prompt and use Node.js to run it. Read the logs to make sure it was successful.
 5. Check the "tags" folder of your level. It should be empty.
 6. Reopen your level in the editor.
 7. Report errors to me.
