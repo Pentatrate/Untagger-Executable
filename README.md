@@ -15,6 +15,8 @@ Warning:
 
 ## How to use (untagger.js)
 You need Node.js for this. The source code that was injected into a Node.js package for the executable.
+
+The code can also be copied and pasted into the console of your browser.
 1. Save your level if you are in the editor (Make sure you can play it without errors).
 2. Create a copy of your level for the unlikely event where your level breaks afterwards.
 3. Download and put the untagger.js file into the folder of your specific level (**not** in the "tags" folder).
